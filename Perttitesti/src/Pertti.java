@@ -5,7 +5,5 @@ public class Pertti {
 		System.out.println("Pertsa is bestest!");
 		System.out.println("..vai onko?!???");
 		System.out.println("?!?!!?)");
-
 	}
-
 }
